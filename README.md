@@ -51,7 +51,7 @@ Agents on three different environments are trained. These are Lunar Lander, Bipe
 
 ## Author
 
-- Hardy Hasan
+- trevis maldonado
 
 
 ## Resources
